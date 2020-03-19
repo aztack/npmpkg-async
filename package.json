@@ -1,0 +1,7 @@
+{
+  "name": "npmpkg-async",
+  "version": "1.0.0",
+  "description": "Async utilities for node and the browser",
+  "author": "wangweihua@vipkid.com.cn",
+  "license": "ISC"
+}
